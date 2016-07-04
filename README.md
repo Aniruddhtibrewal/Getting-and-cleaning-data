@@ -6,10 +6,10 @@ Version 1.0
 ==================================================================
 
 ==================================================================
-The code has followinf steps:
+The code has following steps:
 
-1. Importing the test and train features data.
-2. Create a master data set combining both the data sets
+1. Importing the test and train features data
+2. Create a master data set combining both the datasets
 3. Import feature names and idenitfy the list of required features 
 4. Add column names and filter the table created in step 2 for required features
 5. create list of activites and subjects for both test and train data sets
